@@ -421,7 +421,7 @@ std::tuple<int, int> getParamsOfThreeCountNum(int num) {
 
 
 int main(int argc, const char * argv[]) {
-    std::cout << "Please, write norm numbers6 because program don't have checks for human...\n\n";
+    std::cout << "Please, write norm numbers, because program dosn't have checks for human...\n\n";
     
     /* Task1 */
     float base1_for_trapezoid = inputFloat("Put first base for trapezoid: ");

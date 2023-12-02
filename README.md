@@ -1,4 +1,4 @@
-# Firs homework C++
+# First homework C++
 
 ## Ученики, писавшие код:
 > Носова Алина : 22БИ-2
