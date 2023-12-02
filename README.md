@@ -174,7 +174,7 @@ press ENTER to continue or 'stop' to break process: stop
 Really? Ok, let's finish, I don't want to see you for now...
 Program ended with exit code: 0
 ```
-Если вы хотите получить больше примеров, то можете попросить любого из раздела 'Ученики, писавшие код' и мы обезательно пришлём
+Если вы хотите получить больше примеров, то можете попросить любого из раздела `'Ученики, писавшие код'` и мы обезательно пришлём
 
 Или скопируйте [`main.cpp`](https://github.com/MatveyFilippov/First_CPP_HomeTask/blob/main/main.cpp "файл с кодом дз") и запустите на своей машине
 ***
