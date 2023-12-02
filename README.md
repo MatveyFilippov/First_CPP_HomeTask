@@ -1,18 +1,18 @@
 # Firs homework C++
 
 ## Ученики, писавшие код:
-> Носова Алина
+> Носова Алина : 22БИ-2
 >
-> Калашникова Валерия
+> Калашникова Валерия : 22БИ-2
 >
-> Филиппов Матвей
+> Филиппов Матвей : 22БИ-2
 
-## О структуре кода:
-Всё разбито на функции (каждая из которых задокументирована), а так же показано множество разных возможностей (которым мы научились), использование обширного количества доступных нам методов и типов данных
+## О коде:
+Всё разбито на функции (каждая из которых задокументирована), а также показано множество разных возможностей (которым мы научились на занятиях), использование обширного количества доступных нам методов, операторов, типов данных и т.д.
 
-## Пример выхода (terminal):
+## Пример взаимодействия (terminal):
 ```
-Please, write norm numbers6 because program don't have checks for human...
+Please, write norm numbers, because program dosn't have checks for human...
 
 Put first base for trapezoid: 12
 Put second base for trapezoid: 7
@@ -162,7 +162,7 @@ Program ended with exit code: 0
 ```
 &
 ```
-Please, write norm numbers6 because program don't have checks for human...
+Please, write norm numbers, because program dosn't have checks for human...
 
 Put first base for trapezoid: 2
 Put second base for trapezoid: 1
@@ -174,6 +174,8 @@ press ENTER to continue or 'stop' to break process: stop
 Really? Ok, let's finish, I don't want to see you for now...
 Program ended with exit code: 0
 ```
-If you want get more examples -> copy code and run it
+Если вы хотите получить больше примеров, то можете попросить любого из раздела 'Ученики, писавшие код' и мы обезательно пришлём
+
+Или скопируйте [`main.cpp`](https://github.com/MatveyFilippov/First_CPP_HomeTask/blob/main/main.cpp "файл с кодом дз") и запустите на своей машине
 ***
 ###### Выполнено и загружено: 2023-12-02
